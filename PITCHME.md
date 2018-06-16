@@ -7,7 +7,6 @@
 ---
 
 # Titulo 2
-## subtitulo 2 
 
 @div[left-50]
 Habia una vez un niño muy malo
@@ -20,6 +19,11 @@ Habia una vez un niño muy malo
 ---?image=igures/artifacts_2x.png&size=auto 60
 
 ---
+# Titulo 3
+## subtitulo 3
+
+---
+ 
 
 
 
