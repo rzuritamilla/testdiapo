@@ -11,9 +11,12 @@
 
 Habia una vez un niño muy malo
 
-![xkcd](../My_images/artifacts_2x.png "xkcd")
+![](../../OneDrive_UT_Files/OneDrive - Universiteit Twente/Docs-UT-onedrive/My_images/artifacts_2x.png)
+
 
 ---
+
+
 
 
 
