@@ -13,7 +13,7 @@ Habia una vez un niño muy malo
 @divend
 
 @div[left-50] 
-![](figures/artifacts_2x.png)
+![image](figures/artifacts_2x.png)
 @divend 
 
 ?image=figures/artifacts_2x.png&size=auto 40%
