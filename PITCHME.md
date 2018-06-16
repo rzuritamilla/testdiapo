@@ -8,14 +8,17 @@
 
 # Titulo 2
 
-@div[left-50]
+@div[right-50]
 Habia una vez un niño muy malo
 @divend
 
-@div[right-50] 
+@div[left-50] 
 ![](figures/artifacts_2x.png)
----?image=figures/artifacts_2x.png&size=auto 40%
+
 @divend 
+
+---?image=figures/artifacts_2x.png&size=auto 40%
+Note: blabla
 
 ---
 # Titulo 3
