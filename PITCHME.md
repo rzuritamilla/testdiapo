@@ -4,7 +4,7 @@
 2. element 2
 3. element 3
 
----
+---?image=figures/artifacts_2x.png&size=auto 40%
 
 # Titulo 2
 
@@ -13,11 +13,10 @@ Habia una vez un niño muy malo
 @divend
 
 @div[left-50] 
-![image](figures/artifacts_2x.png&size=auto 40%)
+![](figures/artifacts_2x.png)
 @divend 
 
-?image=figures/artifacts_2x.png&size=auto 40%
-Note: blabla
+Note: blabla notes presentor
 
 ---
 # Titulo 3
