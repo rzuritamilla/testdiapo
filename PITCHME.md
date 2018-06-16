@@ -16,7 +16,7 @@ Habia una vez un niño muy malo
 @div[right-50] 
 ![](figures/artifacts_2x.png)
 
----?image=figures/artifacts_2x.png&size=auto 60
+---?image=figures/artifacts_2x.png&size=auto 60%
 
 ---
 # Titulo 3
