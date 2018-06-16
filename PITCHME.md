@@ -27,7 +27,7 @@ Note: blabla notes presentor
 
 ---
 ### Event 
-<div class="eventstorming">
+<div class="xkcd">
 ![](figures/artifacts_2x.png)
 </div>
 
@@ -39,6 +39,9 @@ Note: blabla notes presentor
     <li>Helps find Bounded contexts and subdomains, too</li>
 </ul>
 </div>
+
+---
+
 
 
 
