@@ -12,7 +12,7 @@ Habia una vez un niño muy malo
 @divend
 
 @div[left-50] 
-![xkcd](figures/artifacts_2x.png)
+<img src = "figures/artifacts_2x.png" width="50%"></img>
 @divend 
 
 Note: blabla notes presentor
