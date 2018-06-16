@@ -27,7 +27,7 @@ Note: blabla notes presentor
 
 ---
 ### Event 
-<div class="xkcd">
+<div class="left">
 ![](figures/artifacts_2x.png)
 </div>
 
