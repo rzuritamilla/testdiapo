@@ -14,10 +14,9 @@ Habia una vez un niño muy malo
 
 @div[left-50] 
 ![](figures/artifacts_2x.png)
-
 @divend 
 
----?image=figures/artifacts_2x.png&size=auto 40%
+?image=figures/artifacts_2x.png&size=auto 40%
 Note: blabla
 
 ---
