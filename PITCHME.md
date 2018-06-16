@@ -11,9 +11,7 @@
 
 Habia una vez un niño muy malo
 
-![](../../OneDrive_UT_Files/OneDrive - Universiteit Twente/Docs-UT-onedrive/My_images/artifacts_2x.png)
-
-
+![](figures/artifacts_2x.png)
 ---
 
 
