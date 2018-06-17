@@ -20,6 +20,7 @@ Habia una vez un niño muy malo
 
 @div[right-50]
 @divend
+<br><br>
 
 Note: blabla notes presentor
 
