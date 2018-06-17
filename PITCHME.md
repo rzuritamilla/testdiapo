@@ -29,7 +29,7 @@ Note: blabla notes presentor
 ---
 ### Event 
 @div[left-50]
-<img src= "figures/artifacts_2x.png" width="400"/>  
+![](figures/artifacts_2x.png)
 @divend
 
 @div[right-50]
