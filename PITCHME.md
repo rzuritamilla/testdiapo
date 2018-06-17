@@ -1,8 +1,8 @@
 ---?image=figures/PresentationCover.png
 
-## @color[white] My first GitPitch presentation
-##### @color[white] R. Zurita-Milla
-##### @color[white] 17 June 2018
+## @color[white] (My first GitPitch presentation)
+##### @color[white] (R. Zurita-Milla)
+##### @color[white] (17 June 2018)
 
 ---
 ### Titulo 1
