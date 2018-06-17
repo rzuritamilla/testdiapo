@@ -2,8 +2,10 @@
 
 ### @color[white](My first GitPitch presentation)
 ###### @color[white](R. Zurita-Milla)
-###### @color[white](17 June 2018) <br>
-###### @color[white](@fa[envelope] r.zurita-milla@utwente.nl) <br>
+###### @color[white](17 June 2018) 
+<br><br><br>
+######## @color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+
 
 ---
 ### Numbered lists 
