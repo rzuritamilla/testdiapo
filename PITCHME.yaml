@@ -1,5 +1,5 @@
 logo : figures/ITC-UT.PNG
-logo-position : bottom-left
+slide-number : true
 footnote : "Raul Zurita-Milla 2018"
 mathjax : TeX-MML-AM_HTMLorMML-full
 theme: white
