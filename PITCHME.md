@@ -28,14 +28,13 @@ Note: blabla notes presentor
 
 ---
 ### Event 
+@div[left-50]
 <img src= "figures/artifacts_2x.png" width="400"/>  
+@divend
 
 @div[right-50]
-@divend
-    <li>Physical software modeling technique</li>
-    <li>Excellent for project inception phases</li>
-    <li>Domain events and Aggregate exploration</li>
-    <li>Helps find Bounded contexts and subdomains, too</li>
+    - Helps find Bounded contexts and subdomains
+    - bla 
 @divend
 
 ---
