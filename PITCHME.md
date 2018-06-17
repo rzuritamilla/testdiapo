@@ -1,8 +1,8 @@
 ---?image=figures/PresentationCover.png
 
-## My first GitPitch presentation
-### R. Zurita-Milla
-### 17 June 2018
+## @color[white] My first GitPitch presentation
+##### @color[white] R. Zurita-Milla
+##### @color[white] 17 June 2018
 
 ---
 ### Titulo 1
@@ -42,6 +42,23 @@ Note: blabla notes presentor
 @divend
 
 ---
++++
+@title[Sample]
+
+##### The Cauchy-Schwarz Inequality
+
+`\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]`
+
++++
+@title[Inline Sample]
+
+##### In-line Mathematics
+
+This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
+
 
 
 
