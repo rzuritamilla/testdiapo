@@ -27,14 +27,13 @@ Note: blabla notes presentor
 
 ---
 ### Event 
-<div class="left">
 ![](figures/artifacts_2x.png)
-</div>
+
 
 <div class="right">
 <ul>
     <li>Physical software modeling technique</li>
-    <li>Excelent for project inception phases</li>
+    <li>Excellent for project inception phases</li>
     <li>Domain events and Aggregate exploration</li>
     <li>Helps find Bounded contexts and subdomains, too</li>
 </ul>
