@@ -1,1 +1,5 @@
-vertical-center : false
+logo : figures/ITC-UT.png
+logo-position : bottom-left
+footnote : "Raul Zurita-Milla 2018"
+theme: white
+theme-override : custom.css
