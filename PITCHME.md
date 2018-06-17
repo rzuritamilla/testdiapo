@@ -7,6 +7,7 @@
 3. element 3
 
 ---?image=figures/artifacts_2x.png&size=auto 60%&position=right
+
 ### Titulo 2
 
 @div[left-50]
@@ -27,17 +28,15 @@ Note: blabla notes presentor
 
 ---
 ### Event 
-![](figures/artifacts_2x.png)
+<img src= "figures/artifacts_2x.png" width="400"/>  
 
-
-<div class="right">
-<ul>
+@div[right-50]
+@divend
     <li>Physical software modeling technique</li>
     <li>Excellent for project inception phases</li>
     <li>Domain events and Aggregate exploration</li>
     <li>Helps find Bounded contexts and subdomains, too</li>
-</ul>
-</div>
+@divend
 
 ---
 
