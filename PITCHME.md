@@ -43,6 +43,20 @@ Note: blabla notes presentor
 @divend
 
 ---
+### Event#2
+<div class="left">
+![](figures/artifacts_2x.png)
+</div>
+<div class="right">
+    <ul>
+        <li>Security (OWASP and more)</li>
+        <li>‎Portmortems</li>
+        <li>Game Day activities</li>
+        <li>Chaos engineering</li>
+    </ul>
+</div>
+
+---
 +++
 @title[Sample]
 
