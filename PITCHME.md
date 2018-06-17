@@ -1,7 +1,9 @@
 ---?image=figures/PresentationCover.png
 
-# Titulo slideshow
-## R. Zurita-Milla
+## My first GitPitch presentation
+### R. Zurita-Milla
+### 17 June 2018
+
 ---
 ### Titulo 1
 1. element 1
