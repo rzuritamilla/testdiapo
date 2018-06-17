@@ -5,45 +5,33 @@
 ###### @color[white](17 June 2018)
 
 ---
-### Titulo 1
+### Numbered lists 
 1. element 1
 2. element 2
 3. element 3
 
 ---
-
-### Titulo 2
+### Two images 
 
 @div[left-50]
-Habia una vez un niño muy malo
+![](figures/PresentationCover.png)
 @divend
 
 @div[right-50]
+![](figures/Presentation1.png)
 @divend
-<br><br>
 
 Note: blabla notes presentor
 
 ---
-### Titulo 3
+### Fragments 
 @ul
-- bla 
-- blo
+- This is my first line
+- this is my second line
 @ulend
 
 ---
-### Event 
-@div[left-50]
-![](figures/artifacts_2x.png)
-@divend
-
-@div[right-50]
-    - Helps find Bounded contexts and subdomains
-    - bla 
-@divend
-
----
-### Event#2
+### Left and right content
 <div class="left">
 ![](figures/artifacts_2x.png)
 </div>
@@ -57,10 +45,10 @@ Note: blabla notes presentor
 </div>
 
 ---
-+++
-@title[Sample]
+@title[math]
+##### A bit of maths 
 
-##### The Cauchy-Schwarz Inequality
+The Cauchy-Schwarz Inequality
 
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
@@ -68,9 +56,8 @@ Note: blabla notes presentor
 \]`
 
 +++
-@title[Inline Sample]
-
-##### In-line Mathematics
+@title[Inline maths2]
+##### In-line maths
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
