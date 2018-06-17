@@ -1,4 +1,5 @@
 ---?image=figures/PresentationCover.png
+
 # Titulo slideshow
 ## R. Zurita-Milla
 ---
@@ -8,6 +9,7 @@
 3. element 3
 
 ---?image=figures/Presentation1.png
+
 ### Titulo 2
 
 @div[left-50]
