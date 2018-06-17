@@ -2,9 +2,9 @@
 
 ### @color[white](My first GitPitch presentation)
 ###### @color[white](R. Zurita-Milla)
-###### @color[white](17 June 2018) 
+@color[white](@fa[envelope] r.zurita-milla@utwente.nl)
 <br><br>
-###### @color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+###### @color[white](17 June 2018) 
 
 
 ---
