@@ -10,10 +10,9 @@
 2. element 2
 3. element 3
 
----?image=figures/Presentation1.png
+---
 
 ### Titulo 2
-<br>
 
 @div[left-50]
 Habia una vez un niño muy malo
