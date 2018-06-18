@@ -1,21 +1,19 @@
 ---?image=figures/PresentationCover.png
-
+@title[cover]
 ### @color[white](My first GitPitch presentation)
 ###### @color[white](R. Zurita-Milla)
-@color[white](@fa[envelope] r.zurita-milla@utwente.nl)
-<br><br>
 ###### @color[white](17 June 2018) 
-
 
 ---
 ### Numbered lists 
+@title[lists]
 1. element 1
 2. element 2
 3. element 3
 
 ---
 ### Two images 
-
+@ [side by side, images]
 @div[left-50]
 ![](figures/PresentationCover.png)
 @divend
@@ -28,6 +26,8 @@ Note: blabla notes presentor
 
 ---
 ### Fragments 
+@title[framents]
+
 @ul
 - This is my first line
 - this is my second line
@@ -35,6 +35,7 @@ Note: blabla notes presentor
 
 ---
 ### Left and right content
+@title [side by side]
 <div class="left">
 ![](figures/artifacts_2x.png)
 </div>
@@ -65,6 +66,9 @@ The Cauchy-Schwarz Inequality
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
 ---?image=figures/That_s_all_folks.png&size=cover
+@title[end]
+@color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+<br><br>
 
 
 
