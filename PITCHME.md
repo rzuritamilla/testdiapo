@@ -1,4 +1,4 @@
----?image=figures/PresentationCover.png
+---?image=figures/PresentationCover.png&size=cover
 @title[cover]
 ### @color[white](My first GitPitch presentation)
 ###### @color[white](R. Zurita-Milla)
