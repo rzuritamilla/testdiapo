@@ -1,6 +1,6 @@
 background : figures/ITC-UT.PNG
 background-position : left top
-background-size : 150px auto
+background-size : 200px auto
 slide-number : true
 footnote : "Raul Zurita-Milla 2018"
 mathjax : TeX-MML-AM_HTMLorMML-full
